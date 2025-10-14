@@ -1,7 +1,11 @@
+res://scenes/game.tscn
 res://scenes/gamePlau.tscn
 res://scenes/player.tscn
-res://scenes/game.tscn
 res://scenes/plateform.tscn
-res://scenes/jumpPlateform.tscn
 res://scenes/coin.tscn
+res://scenes/monster.tscn
 res://scripts/coin.gd
+res://scripts/monster.gd
+res://scripts/kill_zone.gd
+res://scenes/kill_zone.tscn
+res://scripts/player.gd
