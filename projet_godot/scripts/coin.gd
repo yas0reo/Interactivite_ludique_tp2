@@ -1,9 +1,6 @@
 extends Area2D
 
-
-
+@onready var animation_player: AnimationPlayer = $AnimationPlayer
 
 func _on_body_entered(body: Node2D) -> void:
-	pass # Replace with function body.
-	$AudioStreamPlayer2D.play()
-	queue_free()
+	animation_player.play("coin")

@@ -1,5 +1,6 @@
-res://asset/audio
-res://asset/spritesheets/Tilemap
 res://scripts
 res://scenes
+res://scenes/
+res://asset/audio
+res://asset/spritesheets/Tilemap
 res://
