@@ -934,7 +934,7 @@ tile_map_data = PackedByteArray("AAADAAgAAAAPAAkAAAAFAAkAAAAQAAkAAAAEAAgAAAARAAk
 tile_set = SubResource("TileSet_v86rl")
 
 [node name="Camera2D" type="Camera2D" parent="."]
-zoom = Vector2(2, 2)
+zoom = Vector2(4, 4)
 
 [connection signal="pressed" from="MarginContainer/VBoxContainer/start" to="." method="_on_start_pressed"]
 [connection signal="pressed" from="MarginContainer/VBoxContainer/options" to="." method="_on_options_pressed"]

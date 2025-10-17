@@ -4,12 +4,6 @@ res://scenes/coteMenuGame.tscn
 res://scenes/menu.tscn
 res://scenes/coffre.tscn
 res://scenes/coin.tscn
-res://scripts/coffre.gd
-res://scripts/coin.gd
-res://scripts/menu.gd
-res://scripts/cote_menu_game.gd
-res://scripts/kill_zone.gd
-res://scripts/options_menu_scene.gd
 res://scenes/kill_zone.tscn
 res://scenes/monster.tscn
 res://scenes/optionsMenuScene.tscn
