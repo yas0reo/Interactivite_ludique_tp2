@@ -1,9 +1,1 @@
-res://scenes/player.tscn
-res://scenes/game.tscn
-res://scenes/coteMenuGame.tscn
-res://scenes/menu.tscn
-res://scenes/coffre.tscn
-res://scenes/coin.tscn
-res://scenes/kill_zone.tscn
-res://scenes/monster.tscn
-res://scenes/optionsMenuScene.tscn
+res://default_bus_layout.tres
