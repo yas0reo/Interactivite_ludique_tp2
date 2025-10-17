@@ -1,4 +1,4 @@
-[gd_scene load_steps=17 format=4 uid="uid://ckhjh453ol7ra"]
+[gd_scene load_steps=18 format=4 uid="uid://ckhjh453ol7ra"]
 
 [ext_resource type="PackedScene" uid="uid://creoi5iv55a21" path="res://scenes/player.tscn" id="1_uwrxv"]
 [ext_resource type="Texture2D" uid="uid://dlwnhxwrahssi" path="res://asset/spritesheets/Tilemap/monochrome_tilemap_transparent_packed.png" id="2_lnu2h"]
@@ -9,6 +9,7 @@
 [ext_resource type="PackedScene" uid="uid://8lro3bsotc2d" path="res://scenes/monster.tscn" id="6_p57ef"]
 [ext_resource type="PackedScene" uid="uid://dooobeepcj3ax" path="res://scenes/kill_zone.tscn" id="7_u5sy4"]
 [ext_resource type="PackedScene" uid="uid://bmslmk5ockk32" path="res://scenes/coffre.tscn" id="9_0tnpc"]
+[ext_resource type="PackedScene" uid="uid://b82esnf1pcakj" path="res://scenes/music.tscn" id="10_vtaks"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_u5sy4"]
 texture = ExtResource("2_lnu2h")
@@ -1007,3 +1008,5 @@ position = Vector2(80, 672)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="killZone"]
 shape = SubResource("WorldBoundaryShape2D_gee14")
+
+[node name="music" parent="." instance=ExtResource("10_vtaks")]
