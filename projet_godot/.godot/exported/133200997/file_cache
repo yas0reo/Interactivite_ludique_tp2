@@ -1,0 +1,12 @@
+res://scenes/coffre.tscn::72f49f8dd932f36c0ac0c6eccc846049::1760709178::res://.godot/exported/133200997/export-6d1e2e8762c9ef9b15eee1eb26b6e5d1-coffre.scn
+res://scenes/coin.tscn::b39c9472e5ee07fde21205a186ec349a::1760709178::res://.godot/exported/133200997/export-96b2131180b71dd158e52c5527d22dd4-coin.scn
+res://scenes/coteMenuGame.tscn::d066f719c9a9e3181c9a4128be15688b::1760709178::res://.godot/exported/133200997/export-f8d7c8fd8f3a28ab3098530afe554c1a-coteMenuGame.scn
+res://scenes/game.tscn::227ab1de891af78256a43fcacec966bf::1760709178::res://.godot/exported/133200997/export-c2a7af834e91ff64325daddf58e45dc0-game.scn
+res://scenes/kill_zone.tscn::266b60cc34fa2a59d6cf959c3c4795f4::1760709178::res://.godot/exported/133200997/export-1cd5da8c23a7ca54aecb209d47883734-kill_zone.scn
+res://scenes/menu.tscn::2ae5615f705b2f2a77e196f37bbc6772::1760709178::res://.godot/exported/133200997/export-1ce5c86e8ca186dcaaeaa8726f1268db-menu.scn
+res://scenes/monster.tscn::b2511d06a00653556a65c67ed40ad450::1760709178::res://.godot/exported/133200997/export-309ad159f718519475d7fad265dbda64-monster.scn
+res://scenes/music.tscn::29ae9b48a0c9fb02686581cd5ef2f816::1760584793::res://.godot/exported/133200997/export-bfd8027ae1117ff610be6f2619a76089-music.scn
+res://scenes/optionsMenuScene.tscn::6f9609a655409cbab1f5b61b77d1bc59::1760709178::res://.godot/exported/133200997/export-bb6fbc4774022732ffc4853292ac5267-optionsMenuScene.scn
+res://scenes/plateform.tscn::f21a8f5c710d53855eb5c3fa615a56bc::1760670090::res://.godot/exported/133200997/export-d624b5f339173f429c74afc5e001ade7-plateform.scn
+res://scenes/player.tscn::a561e16c37cd5316615b126484ec5d30::1760709178::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
+res://default_bus_layout.tres::92fad71173028e16fe917684bc3e2ed6::1760586124::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
